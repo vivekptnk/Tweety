@@ -19,7 +19,7 @@ pip3 install -U git+https://github.com/tweepy/tweepy.git@2efe385fc69385b57733f74
 ### Run the Bot
 You can use [PythonAnywhere](pythonanywhere.com)'s Always-on-Tasks(paid) feature or you can use the normal free bash script to run it for a while but it terminates in 7-8 hours, just use the command below to install Tweepy in PythonAnywhere too.
 ```
-pip3 install -user git+https://github.com/tweepy/tweepy.git@2efe385fc69385b57733f747ee62e6be12a1338b
+pip3 install --user git+https://github.com/tweepy/tweepy.git@2efe385fc69385b57733f747ee62e6be12a1338b
 ``` 
 Then, make the files one by one as in this repo in the home/user directory and then run the main my_twitter_bot.py script. Keep it running and use the Bot to have the satisfaction.
 
